@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-import jimmy_enc
+import pro_enc
